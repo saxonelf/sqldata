@@ -1,4 +1,3 @@
-
 tom richmond
 indianapolis colts
 table_2_18720148_2

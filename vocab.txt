@@ -399998,3 +399998,6 @@ kronik
 rolonda
 zsombor
 sandberger
+>=
+<=
+!=
